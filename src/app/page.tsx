@@ -1,7 +1,7 @@
 import React, {Suspense} from "react";
 import Link from "next/link";
 import dayjs from "dayjs";
-import List from '../components/List';
+import List from "@/components/List"
 
 export default function Page() {
   return (
